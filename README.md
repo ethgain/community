@@ -6,9 +6,12 @@ Future Blockchain Lifestyle
 World's Community platform powered by blockchain.
 Fully decentralized, anonymous and transparent transaction.
 
+![ETHGain](images/256logo.png)
+
 ## Requirements
 
-* Mobile apps
+Mobile apps
 - Coinomi Wallet
-* Website
+
+Website
 - MyEtherWallet
