@@ -15,3 +15,7 @@ Mobile apps
 
 Website
 - MyEtherWallet
+
+## Ethereum Smart Contract
+
+[ETHGain Contract](https://etherscan.io/address/0x8b866c709BF85303aBF9fB9082475C31AAF02EA5)
