@@ -1,2 +1,2 @@
-# community
+# ETHGain Community
 Future Blockchain Lifestyle
